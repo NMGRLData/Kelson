@@ -1,0 +1,66 @@
+{
+    "aliquot": 3, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "B:9 biotite, 1.18 mg", 
+    "commit": "dbef31408009f73df307845cbb17a9bfac48a6ff", 
+    "conditionals": [], 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_diode.py", 
+    "identifier": "64064", 
+    "increment": 3, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-280", 
+    "irradiation_level": "B", 
+    "irradiation_position": 9, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "Biotite", 
+    "measurement": "felix_analysis400_120.py", 
+    "project": "Kelson", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Kelson", 
+    "sample": "AAK15-05", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-05-06T07:27:57.592006", 
+    "tripped_conditional": null, 
+    "username": "MHeizler", 
+    "uuid": "829ee8c7-7ab0-4719-9a71-9ac1920a07c9"
+}
